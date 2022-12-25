@@ -1,0 +1,49 @@
+8
+S001
+Son
+Loai 1 lit
+3
+Thung
+Viet Nam
+S002
+Son
+Loai 5 lit
+10
+Thung
+Viet Nam
+C001
+Cat
+Loai 1
+8
+Khoi
+Viet Nam
+G001
+Gach Nung
+Gach 4 lo
+150
+Vien
+Viet Nam
+G002
+Gach Nung
+Gach 6 lo
+150
+Vien
+Viet Nam
+G003
+Gach Men
+50 x 50
+30
+Mieng
+Viet Nam
+X001
+Xi Mang
+Loai 1
+190
+Bao
+Viet Nam
+X001
+Xi Mang
+Loai 1
+190
+Bao
+Viet Nam
